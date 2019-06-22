@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdeaStore", "IdeaStore\IdeaStore.csproj", "{E8807A49-1751-439A-A0AE-004580338143}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaStore.EntityFramework", "IdeaStore.EntityFramework\IdeaStore.EntityFramework.csproj", "{28EFE04F-C673-4BD6-9868-DEBB750442CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdeaStore.Database", "IdeaStore.EntityFramework\IdeaStore.Database.csproj", "{28EFE04F-C673-4BD6-9868-DEBB750442CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4375,9 +4375,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\IdeaStore\\IdeaStore.EntityFramework\\IdeaStore.EntityFramework.csproj",
-      "projectName": "IdeaStore.EntityFramework",
-      "projectPath": "C:\\Users\\user\\source\\repos\\IdeaStore\\IdeaStore.EntityFramework\\IdeaStore.EntityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\IdeaStore\\IdeaStore.EntityFramework\\IdeaStore.Database.csproj",
+      "projectName": "IdeaStore.Database",
+      "projectPath": "C:\\Users\\user\\source\\repos\\IdeaStore\\IdeaStore.EntityFramework\\IdeaStore.Database.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\source\\repos\\IdeaStore\\IdeaStore.EntityFramework\\obj\\",
       "projectStyle": "PackageReference",

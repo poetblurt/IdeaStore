@@ -24,7 +24,7 @@
     ".NETCoreApp,Version=v2.1": {
       "IdeaStore/1.0.0": {
         "dependencies": {
-          "IdeaStore.EntityFramework": "1.0.0",
+          "IdeaStore.Database": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
@@ -515,16 +515,16 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
-      "IdeaStore.EntityFramework/1.0.0": {
+      "IdeaStore.Database/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.1.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1"
         },
         "runtime": {
-          "IdeaStore.EntityFramework.dll": {}
+          "IdeaStore.Database.dll": {}
         },
         "compile": {
-          "IdeaStore.EntityFramework.dll": {}
+          "IdeaStore.Database.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3657,7 +3657,7 @@
       "path": "system.linq.parallel/4.3.0",
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
     },
-    "IdeaStore.EntityFramework/1.0.0": {
+    "IdeaStore.Database/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

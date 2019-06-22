@@ -5,8 +5,8 @@ C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore
 C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.pdb
 C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.Views.dll
 C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.Views.pdb
-C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.EntityFramework.dll
-C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.EntityFramework.pdb
+C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.Database.dll
+C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.Database.pdb
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.csprojAssemblyReference.cache
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.RazorAssemblyInfo.cache
