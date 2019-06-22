@@ -33,6 +33,7 @@ body {
 .carousel-inner {
     border: solid;
     border-color: black;
+    border-width: thin;
 }
 
 .carousel{
@@ -71,4 +72,41 @@ body {
     line-height: 300px;
     font-family: Papyrus;
     font-size: 25px;
+}
+
+
+.has-search .form-control-feedback {
+    right: initial;
+    left: 0;
+    color: #ccc;
+}
+
+.has-search .form-control {
+    padding-right: 12px;
+    padding-left: 34px;
+}
+
+.form-group.has-feedback.has-search {
+    display: inline-block;
+    width:59%;
+}
+
+.search-panel {
+    margin-top: 50px;
+    width: 100%;
+    display: inline-block;
+}
+
+
+.dropdown {
+    display:inline-block;
+    width:20%;
+}
+
+.dropdown-menu{
+    width:100%;
+}
+
+input[type="checkbox"].category-checkbox {
+    margin: 0 5px 0 5px;
 }
