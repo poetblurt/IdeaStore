@@ -1,4 +1,4 @@
-﻿namespace IdeaStore.Models
+﻿namespace IdeaStore.Business.Features.Ideas
 {
    public class IdeaData
    {

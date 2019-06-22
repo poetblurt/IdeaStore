@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using IdeaStore.Business.Features.Ideas;
 using IdeaStore.Database.Data;
+using IdeaStore.Database.Models;
+using IdeaStore.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Hosting;
@@ -36,8 +39,11 @@ namespace IdeaStore
          services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(
                Configuration.GetConnectionString("DefaultConnection")));
-         services.AddDefaultIdentity<IdentityUser>()
-            .AddEntityFrameworkStores<AppDbContext>();
+         services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<AppDbContext>();
+
+         services.Add(new ServiceDescriptor(typeof(IBusinessActionLocator), typeof(BusinessActionLocator), ServiceLifetime.Scoped));
+         
+         services.Add(new ServiceDescriptor(typeof(GetIdeasAction), typeof(GetIdeasAction), ServiceLifetime.Scoped));
 
          services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
       }

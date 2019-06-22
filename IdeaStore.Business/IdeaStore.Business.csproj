@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Features\IdeaData.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\IdeaStore.EntityFramework\IdeaStore.Database.csproj" />
   </ItemGroup>
 
