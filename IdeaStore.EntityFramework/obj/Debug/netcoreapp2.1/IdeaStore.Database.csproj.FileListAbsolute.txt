@@ -1,8 +1,0 @@
-C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\bin\Debug\netcoreapp2.1\IdeaStore.Database.deps.json
-C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\bin\Debug\netcoreapp2.1\IdeaStore.Database.dll
-C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\bin\Debug\netcoreapp2.1\IdeaStore.Database.pdb
-C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.Database.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.Database.AssemblyInfoInputs.cache
-C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.Database.AssemblyInfo.cs
-C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.Database.dll
-C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.Database.pdb
