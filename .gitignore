@@ -5,5 +5,3 @@
 /.vs/slnx.sqlite
 /.vs/IdeaStore/v15/Server/sqlite3
 /.vs
-bin/
-obj/
