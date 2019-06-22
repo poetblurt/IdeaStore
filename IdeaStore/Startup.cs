@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using IdeaStore.Data;
+using IdeaStore.EntityFramework.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -35,10 +35,10 @@ namespace IdeaStore
          });
 
          services.AddDbContext<ApplicationDbContext>(options =>
-             options.UseSqlServer(
-                 Configuration.GetConnectionString("DefaultConnection")));
+            options.UseSqlServer(
+               Configuration.GetConnectionString("DefaultConnection")));
          services.AddDefaultIdentity<IdentityUser>()
-             .AddEntityFrameworkStores<ApplicationDbContext>();
+            .AddEntityFrameworkStores<ApplicationDbContext>();
 
          services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
       }

@@ -4615,6 +4615,20 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "IdeaStore.EntityFramework/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.1.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1"
+        },
+        "compile": {
+          "bin/placeholder/IdeaStore.EntityFramework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IdeaStore.EntityFramework.dll": {}
+        }
       }
     }
   },
@@ -7816,6 +7830,7 @@
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -7842,6 +7857,7 @@
       "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -12519,10 +12535,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "IdeaStore.EntityFramework/1.0.0": {
+      "type": "project",
+      "path": "../IdeaStore.EntityFramework/IdeaStore.EntityFramework.csproj",
+      "msbuildProject": "../IdeaStore.EntityFramework/IdeaStore.EntityFramework.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "IdeaStore.EntityFramework >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -12558,7 +12580,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user\\source\\repos\\IdeaStore\\IdeaStore.EntityFramework\\IdeaStore.EntityFramework.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\IdeaStore\\IdeaStore.EntityFramework\\IdeaStore.EntityFramework.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

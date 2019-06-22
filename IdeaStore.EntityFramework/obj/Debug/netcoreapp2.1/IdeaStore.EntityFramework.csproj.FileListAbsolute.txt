@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\bin\Debug\netcoreapp2.1\IdeaStore.EntityFramework.deps.json
+C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\bin\Debug\netcoreapp2.1\IdeaStore.EntityFramework.dll
+C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\bin\Debug\netcoreapp2.1\IdeaStore.EntityFramework.pdb
+C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.EntityFramework.AssemblyInfo.cs
+C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.EntityFramework.dll
+C:\Users\user\source\repos\IdeaStore\IdeaStore.EntityFramework\obj\Debug\netcoreapp2.1\IdeaStore.EntityFramework.pdb

@@ -5,6 +5,8 @@ C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore
 C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.pdb
 C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.Views.dll
 C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.Views.pdb
+C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.EntityFramework.dll
+C:\Users\user\source\repos\IdeaStore\IdeaStore\bin\Debug\netcoreapp2.1\IdeaStore.EntityFramework.pdb
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.csprojAssemblyReference.cache
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.RazorAssemblyInfo.cache
@@ -27,6 +29,6 @@ C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\Razor\Vie
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.RazorTargetAssemblyInfo.cache
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.RazorTargetAssemblyInfo.cs
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.Views.pdb
+C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.csproj.CopyComplete
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.dll
 C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.pdb
-C:\Users\user\source\repos\IdeaStore\IdeaStore\obj\Debug\netcoreapp2.1\IdeaStore.csproj.CopyComplete
