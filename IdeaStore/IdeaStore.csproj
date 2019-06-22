@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\IdeaStore.Business\IdeaStore.Business.csproj" />
     <ProjectReference Include="..\IdeaStore.EntityFramework\IdeaStore.Database.csproj" />
   </ItemGroup>
 

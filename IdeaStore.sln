@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdeaStore", "IdeaStore\Idea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdeaStore.Database", "IdeaStore.EntityFramework\IdeaStore.Database.csproj", "{28EFE04F-C673-4BD6-9868-DEBB750442CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaStore.Business", "IdeaStore.Business\IdeaStore.Business.csproj", "{12554BBA-CC2B-4C2D-9021-0DFCD31BE1DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{28EFE04F-C673-4BD6-9868-DEBB750442CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28EFE04F-C673-4BD6-9868-DEBB750442CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28EFE04F-C673-4BD6-9868-DEBB750442CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12554BBA-CC2B-4C2D-9021-0DFCD31BE1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12554BBA-CC2B-4C2D-9021-0DFCD31BE1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12554BBA-CC2B-4C2D-9021-0DFCD31BE1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12554BBA-CC2B-4C2D-9021-0DFCD31BE1DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
